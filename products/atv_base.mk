@@ -71,7 +71,7 @@ PRODUCT_PACKAGES += \
     CalendarProvider \
     CaptivePortalLogin \
     CertInstaller \
-    DocumentsUIMinimal \
+    DocumentsUI \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \
